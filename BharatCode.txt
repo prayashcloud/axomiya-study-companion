@@ -1,0 +1,4 @@
+Project: Axomiya Study Companion
+Built for: BharatCode Build League
+Model API: BharatCode (qwen-3.8-27b)
+Summary: An AI tutor for SEBA/AHSEC students that explains topics in Assamese, quizzes them, grades answers in plain code, and tracks weak topics.
